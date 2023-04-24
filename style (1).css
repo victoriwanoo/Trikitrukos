@@ -1,0 +1,29 @@
+h1 {
+  text-align: center;
+  font-size: 64px;
+  font-family: "Cambria Math";
+}
+
+h2 {
+  color: darkcyan;
+  font-family: "Consolas";
+}
+
+body {
+  background-color: rgb(200,200,210);
+}
+
+ol {
+  border-width: 1px;
+  border-style: solid;
+  width: 400px
+}
+
+.texto_arial_darkgoldenrod {
+    font-family: "Kanit";
+    color: darkgoldenrod;
+}
+
+#mi_link {
+  font-weight: bold;
+}
