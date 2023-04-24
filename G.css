@@ -1,0 +1,15 @@
+body {
+  background-color: #AC4B1C;
+  font-family: 'Bona Nova', serif;
+}
+.sujeto {
+  font-size: 100px;
+  background-color: #FFEFA0;
+  border-radius: 15px;
+  color: #AC4B1C;
+  justify-content: space-evenly;
+}
+.defs{
+  font-size: 20px;
+  color: #FCA652;
+}
