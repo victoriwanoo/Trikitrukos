@@ -95,6 +95,7 @@ html {
   text-transform: none; /*capitalización texto*/
   font-family: 'Kanit', sans-serif; /*tipografía texto*/
   border-radius: 50px; /*bordes redondos*/
+  background-color: #D8B384;
 }
 
 .triki {
