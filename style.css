@@ -1,0 +1,111 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #FFF4E0;
+}
+
+.botones {
+  display: flex;
+  justify-content: space-evenly;
+  margin:5px;
+  padding:5px;
+ 
+}
+.botonhg {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: 240px;
+	height: 200px;
+  border: 1px solid #FFEFA0; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #FFEFA0; /*color botón*/
+  color: #FCA652; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  font-size: 48px;
+  border-radius: 50px; /*bordes redondos*/
+
+}
+
+.botonfr {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: 240px;
+	height: 200px;
+  border: 1px solid #FFC3A1; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #FFC3A1; /*color botón*/
+  color: #D3756B; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  font-size: 48px;
+  border-radius: 50px; /*bordes redondos*/
+  
+  }
+
+.botonsciences {
+  display: flex;  
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: 240px;
+	height: 200px;
+  border: 1px solid #E1FFB1; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #E1FFB1; /*color botón*/
+  color: #B6E388; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  font-size: 48px;
+  border-radius: 50px; /*bordes redondos*/
+}
+
+.botonmaths {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: 240px;
+	height: 200px;
+  border: 1px solid #B3E8E5; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #B3E8E5; /*color botón*/
+  color: #2F8F9D; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  font-size: 48px;
+  border-radius: 50px; /*bordes redondos*/
+}
+
+.Queseso {
+  display: flex;
+  width: 150;
+	height: 22px;
+  font-size: 25px;
+  color: #E4CE8E; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: none; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  border-radius: 50px; /*bordes redondos*/
+}
+
+.triki {
+  display: flex;
+  width: 70px;
+	height: 22px;
+  font-size: 90px;
+  color: #D8B384; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: none; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  border-radius: 50px; /*bordes redondos*/
+  align-items: center;
+}
