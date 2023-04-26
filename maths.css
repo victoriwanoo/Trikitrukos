@@ -1,0 +1,102 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #B3E8E5;
+}
+
+.link{
+  text-decoration: none; /*decoración texto*/
+  text-transform: none; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  font-size: 48px;
+  color: #EEE9DA;
+  font-size: 48px;
+}
+
+
+.clases{
+  display: flex;
+  align-items: flex-start ;
+  align-items: center;
+  text-align: center;
+  justify-content: flex-enter;
+  width: 80%;
+	height: 50px;
+  border: 20px solid #3BACB6; /*anchura, estilo y color borde*/
+  padding: 10px; /*espacio alrededor texto*/
+  background-color: #82DBD8; /*color botón*/
+  color: #3BACB6; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: none; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  font-size: 48px;
+  border-radius: 50px; /*bordes redondos*/
+}
+  
+.texto1{
+  height: 190px;
+  justify-content: center;
+  align-content: center
+  align-items: center;
+  text-decoration: none; /*decoración texto*/
+  text-transform: none; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  font-size: 48px;
+  align-content: center;
+  color: #EEE9DA;
+  border: 15px solid #3BACB6; /*anchura, estilo y color borde*/
+  background-color: #82DBD8; /*color botón*/
+  border-radius: 50px; /*bordes redondos*/
+  font-size: 25px;
+}
+
+.texto2{
+  height: 159px;
+  justify-content: center;
+  align-content: center
+  align-items: center;
+  text-decoration: none; /*decoración texto*/
+  text-transform: none; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  font-size: 48px;
+  align-content: center;
+  color: #EEE9DA;
+  border: 15px solid #3BACB6; /*anchura, estilo y color borde*/
+  background-color: #82DBD8; /*color botón*/
+  border-radius: 50px; /*bordes redondos*/
+  font-size: 25px;
+}
+
+.texto3{
+  height: 133px;
+  justify-content: center;
+  align-content: center
+  align-items: center;
+  text-decoration: none; /*decoración texto*/
+  text-transform: none; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  font-size: 48px;
+  align-content: center;
+  color: #EEE9DA;
+  border: 15px solid #3BACB6; /*anchura, estilo y color borde*/
+  background-color: #82DBD8; /*color botón*/
+  border-radius: 50px; /*bordes redondos*/
+  font-size: 25px;
+}
+
+.texto4{
+  height: 133px;
+  justify-content: center;
+  align-content: center
+  align-items: center;
+  text-decoration: none; /*decoración texto*/
+  text-transform: none; /*capitalización texto*/
+  font-family: 'Kanit', sans-serif; /*tipografía texto*/
+  font-size: 48px;
+  align-content: center;
+  color: #EEE9DA;
+  border: 15px solid #3BACB6; /*anchura, estilo y color borde*/
+  background-color: #82DBD8; /*color botón*/
+  border-radius: 50px; /*bordes redondos*/
+  font-size: 25px;
+}
